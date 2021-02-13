@@ -1,11 +1,3 @@
-﻿/***********************************************************************************************                         
- * Programmname:    Buchstabenzähler
- * Autor:           Michael Bucek                      
- * ------------------------------------------------ 
- * Kurzbeschreibung:      
- * Es soll gezählt werden, wie oft die einzelnen Buchstaben von A-Z in einem eingegebenen Text
- * vorkommen. Kleinbuchstaben sollen dabei als Großbuchstaben gezählt werden! Ausgabe als Tabelle.
- ************************************************************************************************/
 
 using System;
 
